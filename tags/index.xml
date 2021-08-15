@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hi, I&#39;m Jordan :)</title>
+    <link>https://timtamjamlamb.github.io/Website/tags/</link>
+    <description>Recent content in Tags on Hi, I&#39;m Jordan :)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 14 Aug 2021 21:25:04 +1200</lastBuildDate><atom:link href="https://timtamjamlamb.github.io/Website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>untagged</title>
+      <link>https://timtamjamlamb.github.io/Website/tags/untagged/</link>
+      <pubDate>Sat, 14 Aug 2021 21:25:04 +1200</pubDate>
+      
+      <guid>https://timtamjamlamb.github.io/Website/tags/untagged/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>https://timtamjamlamb.github.io/Website/tags/demo/</link>
+      <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
+      
+      <guid>https://timtamjamlamb.github.io/Website/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image</title>
+      <link>https://timtamjamlamb.github.io/Website/tags/image/</link>
+      <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
+      
+      <guid>https://timtamjamlamb.github.io/Website/tags/image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typography</title>
+      <link>https://timtamjamlamb.github.io/Website/tags/typography/</link>
+      <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
+      
+      <guid>https://timtamjamlamb.github.io/Website/tags/typography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://timtamjamlamb.github.io/Website/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://timtamjamlamb.github.io/Website/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://timtamjamlamb.github.io/Website/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://timtamjamlamb.github.io/Website/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://timtamjamlamb.github.io/Website/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://timtamjamlamb.github.io/Website/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://timtamjamlamb.github.io/Website/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://timtamjamlamb.github.io/Website/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>https://timtamjamlamb.github.io/Website/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://timtamjamlamb.github.io/Website/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://timtamjamlamb.github.io/Website/tags/themes/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://timtamjamlamb.github.io/Website/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
